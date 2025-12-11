@@ -1,0 +1,5 @@
+*.class
+*.swp
+*.ctxt
+__SHELL*.java
+__SHELL*.class
